@@ -26,7 +26,7 @@ if(x=="1"){xxx="/2017/11/manga-and-anime-industries-to-be-exempt.html"}
 if(x=="2"){xxx="/2017/11/inside-shonen-jump-japans-manga.html"}
 if(x=="3"){xxx="/2017/11/how-anime-art-has-changed-since-2010.html"}
 if(x=="4"){xxx="/2017/11/katy-perry-looks-like-character-from.html"}
-if(x=="5"){xxx="/2017/11/blade-runner-is-getting-short-anime.html"}a_to_ve[i].href="https://eigalinkconverter.blogspot.co.id/p/gotourl.html"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/11/blade-runner-is-getting-short-anime.html"}a_to_ve[i].href="https://eigalinkconverter.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
